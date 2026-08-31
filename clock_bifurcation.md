@@ -1,5 +1,5 @@
 The Clock Is a Bifurcation Machine
-
+License:** CC0 — Public Domain — No rights reserved 
 Geometry-corrected provenance version
 
 This v0.3 is a native copy of “The Clock Is a Bifurcation Machine” after its register-consistency patch. “Clock Model Correction Note” remains the governing correction; both source documents remain unchanged.
