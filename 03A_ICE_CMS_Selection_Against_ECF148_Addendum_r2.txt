@@ -1,0 +1,60 @@
+DRAFT - NOT SUBMITTED
+Addendum to drafts 03 (ICE) and 04 (CMS). Add the matching section to each request before submission, or submit as a separate request to each office.
+Demand ID: R09 - January selection against ECF 148.
+
+WHY THIS ITEM EXISTS
+ECF 148 (entered 29 December 2025) allows HHS/CMS to share plaintiff-state information with DHS/ICE only if it (1) is from the Medicaid program, (2) pertains only to aliens who are not lawfully residing in the United States, and (3) is limited to citizenship and immigration status, address, phone number, date of birth and Medicaid ID. It also bars DHS/ICE from using HHS/CMS data for immigration enforcement unless the data meet those conditions. ECF 148 states that the prior injunction, ECF 98, remained in place only until 5 January 2026.
+
+Alberto Briseno's 9 April 2026 declaration (ECF 155-4) states that:
+- ICE sent a Privacy Act (b)(7) letter to HHS/CMS on 6 January 2026 that referenced ECF 148 (paras. 4-5, 8-9);
+- CMS matched against ICE's 10 December 2025 list of approximately 7.6 million open EARM cases, which included people with removal proceedings initiated, people under investigation and people with executable final orders (paras. 7-8);
+- the request described its population as "individuals with unsatisfactory immigration status" (para. 9);
+- after learning of the parties' disagreement about whether some individuals fell within the injunction, ICE "determined that the parameters of the open EARM cases could have been further limited" (para. 13).
+
+These references identify the records sought. They do not presume that the file contained people outside the order's categories.
+
+---------------------------------------------------------------
+SECTION FOR DRAFT 03 (ICE FOIA)
+
+Please provide the following existing records, January 1 through October 16, 2026 unless stated otherwise:
+
+A1. The Privacy Act (b)(7) letter ICE sent to HHS/CMS on or about January 6, 2026 requesting plaintiff-state Medicaid data, with attachments and transmittal records.
+
+A2. For December 1, 2025 through January 7, 2026: the transmittal of the open EARM case list dated on or about December 10, 2025 that CMS used as the match key for the January 7, 2026 file, including any Privacy Act (b)(7) request or cover letter that accompanied it, limited to records describing the list's selection criteria, filters, field definitions and record count. This request does not seek the person-level list itself.
+
+A3. Existing records defining "unsatisfactory immigration status" or otherwise describing how the population requested on January 6, 2026 was defined, including any comparison with the ECF 148 category "aliens who are not lawfully residing in the United States," and any records dated December 29, 2025 through January 7, 2026 reviewing, re-validating or narrowing the December 10, 2025 list against the ECF 148 categories.
+
+A4. Existing records reflecting the review described in paragraph 13 of the April 9, 2026 Briseno declaration (ECF 155-4), including any such review in or around February 2026, any analysis of how the open-case parameters "could have been further limited," any count or estimate of records falling outside the ECF 148 categories, and the decision to quarantine the data.
+
+A5. Existing records of the fields actually received on January 7, 2026 (a field list, schema, data dictionary or header record), sufficient to show whether the file was limited to the five data elements permitted by ECF 148. Please redact any person-level values.
+
+A6. ICE's accounting of disclosure under 5 U.S.C. § 552a(c)(1) for its disclosure of the open EARM case list to HHS/CMS on or about December 10, 2025 (date, nature, purpose and recipient). An aggregate or bulk accounting record is sufficient; please redact person-level values.
+
+---------------------------------------------------------------
+SECTION FOR DRAFT 04 (CMS FOIA)
+
+Please provide the following existing records, December 1, 2025 through October 16, 2026:
+
+B1. ICE's January 6, 2026 request as received by CMS, and CMS's records of how it processed that request.
+
+B2. Existing matching specifications, queries, filter logic or production instructions used to produce the January 7, 2026 file, including how CMS applied ECF 148's three conditions (Medicaid source; aliens not lawfully residing in the United States; the five permitted data elements).
+
+B3. Existing output manifests, record counts, field lists or data dictionaries for the January 7, 2026 file. Please redact person-level values; this request does not seek beneficiary data.
+
+B4. Any existing CMS review, legal sign-off or communication assessing whether the January 7, 2026 production complied with ECF 148, including any review after the February 2026 disagreement between the parties.
+
+B5. CMS's accounting of disclosure under 5 U.S.C. § 552a(c)(1) for the January 7, 2026 disclosure to ICE (date, nature, purpose and recipient). An aggregate or bulk accounting record is sufficient; please redact person-level values.
+
+---------------------------------------------------------------
+STANDARD TERMS (same as the parent drafts)
+Please provide existing responsive records electronically, with their existing attachments and available metadata. I am requesting records, rather than the creation of a new analysis. If you withhold information, identify the applicable exemption and basis, release reasonably segregable portions, and provide the applicable review or appeal procedure. If another component holds responsive records, please route or refer the request as appropriate and identify that component.
+
+Some of the information sought, including the composition of the December 10, 2025 list and the description of the requested population, has already been disclosed in the public court record at ECF 155-4, paragraphs 4-13. Please do not withhold information that matches that public record; if you withhold any portion you consider to differ from it, please say so.
+
+I am an individual, non-commercial requester. Please contact me before incurring any chargeable fees. I have not authorized payment of fees. Rolling production of readily releasable records is requested.
+
+Andrew Dube
+Reply email or postal address: [complete before submission]
+Date: [date of actual submission]
+
+Sources: ECF 148 (https://storage.courtlistener.com/recap/gov.uscourts.cand.452203/gov.uscourts.cand.452203.148.0.pdf), pages 6-7; ECF 155-4 (https://storage.courtlistener.com/recap/gov.uscourts.cand.452203/gov.uscourts.cand.452203.155.4.pdf), paragraphs 4-13.
